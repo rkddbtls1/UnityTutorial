@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Unity Instantiate/Instantiate.unity
+- path: Assets/Unity Translate/scene/move Scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
