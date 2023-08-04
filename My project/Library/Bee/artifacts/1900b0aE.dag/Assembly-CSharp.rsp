@@ -343,6 +343,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Unity Animation Clip/script/Iteration.cs"
 "Assets/Unity collision/script/CubeObject.cs"
 "Assets/Unity Instantiate/Script2/Monsters.cs"
 "Assets/Unity Interface/script/car.cs"
