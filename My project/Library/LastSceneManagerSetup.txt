@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Unity Animation Controler/scene/Animatercontroler.unity
+- path: Assets/Unity NavMesh/scene/NavMesh.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
