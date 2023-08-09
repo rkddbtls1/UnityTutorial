@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Unity NavMesh/scene/NavMesh.unity
+- path: Assets/Unity prefab System/scene/Prefab System.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
